@@ -57,8 +57,10 @@ function formatLaosNumber(number) {
 }
 
 // Root endpoint
-app.get('/', (req, res) => {
-  res.json({ message: '🦄🌈✨👋 Server is running 🌍✨🌈🦄' });
+app.use('/', (req, res) => {
+  res.send('🦄🌈✨👋 Server is running 🌍✨🌈🦄');
+  // Or use this line for a JSON response:
+  // res.json({ message: '🦄🌈✨👋 Server is running 🌍✨🌈🦄' });
 });
 
 // Send message endpoint

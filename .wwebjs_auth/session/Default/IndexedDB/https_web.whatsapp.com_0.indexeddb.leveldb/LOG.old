@@ -1,3 +1,21 @@
-2024/11/10-11:45:40.543 53c Reusing MANIFEST D:\Job EDL\api-vercel\nodewhatapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/10-11:45:40.543 53c Recovering log #209
-2024/11/10-11:45:40.556 53c Reusing old log D:\Job EDL\api-vercel\nodewhatapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000209.log 
+2024/11/10-11:52:54.433 4370 Reusing MANIFEST D:\Job EDL\api-vercel\nodewhatapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/10-11:52:54.433 4370 Recovering log #217
+2024/11/10-11:52:54.449 4370 Reusing old log D:\Job EDL\api-vercel\nodewhatapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000217.log 
+2024/11/10-11:52:55.940 4b44 Level-0 table #226: started
+2024/11/10-11:52:55.947 4b44 Level-0 table #226: 193649 bytes OK
+2024/11/10-11:52:55.948 4b44 Delete type=0 #217
+2024/11/10-11:52:55.948 4b44 Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/10-11:52:55.997 4b44 Compacting 1@1 + 5@2 files
+2024/11/10-11:52:56.057 4b44 Generated table #227@1: 47671 keys, 2203567 bytes
+2024/11/10-11:52:56.073 4b44 Generated table #228@1: 2424 keys, 2151428 bytes
+2024/11/10-11:52:56.106 4b44 Generated table #229@1: 23234 keys, 2204508 bytes
+2024/11/10-11:52:56.170 4b44 Generated table #230@1: 87934 keys, 2234814 bytes
+2024/11/10-11:52:56.175 4b44 Generated table #231@1: 2080 keys, 51373 bytes
+2024/11/10-11:52:56.175 4b44 Compacted 1@1 + 5@2 files => 8845690 bytes
+2024/11/10-11:52:56.176 4b44 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/10-11:52:56.176 4b44 Delete type=2 #219
+2024/11/10-11:52:56.176 4b44 Delete type=2 #220
+2024/11/10-11:52:56.176 4b44 Delete type=2 #221
+2024/11/10-11:52:56.176 4b44 Delete type=2 #222
+2024/11/10-11:52:56.176 4b44 Delete type=2 #223
+2024/11/10-11:52:56.176 4b44 Delete type=2 #226
